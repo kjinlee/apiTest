@@ -4,7 +4,7 @@
 # [기본]<br/>
 server_plain
 <br/>
-# 개발 환경<br/>
+[개발 환경]<br/>
 spring-boot 2.4.10<br/>
 java 1.8<br/>
 <br/>
@@ -22,7 +22,7 @@ json으로 값을 주고 받고 협업과정에서 프론트에 얼마나 더 �
 apiServer_oauth<br/>
 clientApplication_oauth<br/>
 <br/>
-# 개발 환경<br/>
+[개발 환경]<br/>
 spring-boot 2.4.10<br/>
 java 1.8<br/>
 <br/>
@@ -40,7 +40,7 @@ RestTemplate을 사용하여 server와 client의 연결을 해보려함 <br/>
 apiServer_jwt<br/>
 clientApplication_jwt<br/>
 <br/>
-# 개발 환경<br/>
+[개발 환경]<br/>
 spring-boot 2.4.10<br/>
 java 1.8<br/>
 <br/>
