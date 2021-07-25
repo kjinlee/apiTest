@@ -1,0 +1,19 @@
+CREATE TABLE `fruit` (
+   `id` int(11) NOT NULL AUTO_INCREMENT,
+   `category`varchar(100)NOT NULL,
+   `name` varchar(100) NOT NULL,
+   `price` varchar(100) NOT NULL,
+
+   PRIMARY KEY (`id`)
+ ); 
+ 
+ 
+ INSERT INTO fruit(category,name,price) VALUES
+('과일', "사과", "5,000원"),
+('과일', "배", "10,000원"),
+('과일', "망고", "23,000원"),
+('과일', "수박", "9,000원"),
+('채소', "오이", "1,000원"),
+('채소', "양파", "2,000원"),
+('채소', "마늘", "5,000원"),
+('채소', "대파", "3,000원");
