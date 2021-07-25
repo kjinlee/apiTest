@@ -1,15 +1,14 @@
-# apitest
+# API TEST
 
 # [기본]<br/>
 server_plain
 <br/>
 [개발 환경]<br/>
-spring-boot 2.4.10<br/>
-java 1.8<br/>
-<br/>
-#library<br/>
+ - spring-boot 2.4.10<br/>
+ - java 1.8<br/>
+ - library<br/>
 lombok / jpa / mysql-connector<br/>
-#DataBase<br/>
+ - DataBase<br/>
 MySQL<br/>
 
 view단에서 값 넘길 시 비동기를 사용하기 위해 jQuery 및 ajax 사용 <br/>
@@ -22,12 +21,10 @@ apiServer_oauth<br/>
 clientApplication_oauth<br/>
 <br/>
 [개발 환경]<br/>
-spring-boot 2.4.10<br/>
-java 1.8<br/>
-<br/>
+ - spring-boot 2.4.10<br/>
+ - java 1.8<br/>
  - library<br/>
 security / oauth2 / lombok / jpa / mysql-connector<br/>
-<br/>
  - DataBase<br/>
 MySQL<br/>
 
@@ -40,12 +37,10 @@ apiServer_jwt<br/>
 clientApplication_jwt<br/>
 <br/>
 [개발 환경]<br/>
-spring-boot 2.4.10<br/>
-java 1.8<br/>
-<br/>
+ - spring-boot 2.4.10<br/>
+ - java 1.8<br/>
  - library<br/>
 security / jwt / lombok / jpa / mysql-connector<br/>
-<br/>
  - DataBase<br/>
 MySQL<br/>
 
