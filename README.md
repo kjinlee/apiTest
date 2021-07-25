@@ -1,6 +1,5 @@
 # apitest
 
-# 파일 목록<br/>
 # [기본]<br/>
 server_plain
 <br/>
@@ -36,7 +35,7 @@ oauth를 이용한 token 인증 및 서버 교환 구현<br/>
 RestTemplate을 사용하여 server와 client의 연결을 해보려함 <br/>
 더 많은 보수가 필요하다.
 
-[JWT]<br/>
+# [JWT]<br/>
 apiServer_jwt<br/>
 clientApplication_jwt<br/>
 <br/>
